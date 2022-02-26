@@ -22,7 +22,7 @@ I am not the creator of the art work.
 
 ### 2. Install Dependencies:
 ```
-$ cd nftchibi_minting
+$ cd nftminting
 $ npm install 
 ```
 
